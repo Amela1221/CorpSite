@@ -56,6 +56,9 @@
                                         <li>
                                             <a href="#">Legoland</a>
                                         </li>
+                                        <li>
+                                            <a href="#">Paris</a>
+                                        </li>
                                     </ul>
                                 </li>
                             </ul>
