@@ -57,7 +57,7 @@
                                             <a href="#">Legoland</a>
                                         </li>
                                         <li>
-                                            <a href="#">Hartland</a>
+                                            <a href="#">Someplace</a>
                                         </li>
                                     </ul>
                                 </li>
